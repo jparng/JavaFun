@@ -18,7 +18,13 @@ public class ComputingTax {
         
         //Tax variable
         double tax = 0;
-
+        
+        //Gives error when income is a negative value
+        if(income < 0){
+            System.out.println("Error: invalid income");
+            System.exit(1);
+        }
+        
         switch (fileStatus){
             //Compute tax for single-filers
           case 0: 
