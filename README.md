@@ -1,2 +1,2 @@
 # JavaFun
-A series of Java code for fun
+A series of Java code for fun for CSC 501.
