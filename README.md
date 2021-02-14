@@ -11,3 +11,5 @@ Calculating Future Investment Value:
   This program will prompt the user for a filing status (0-3) for Single, Married filing Jointly or Widow(er), Married filing separately, and Head of Household. The program will then prompt the user for the amount of taxable income they have earned. Finally, the results of the amount of tax owed will be displayed using the federal personal income tax bracket from 2009.
   
   
+Phone keypad:
+  This program will ask the user to input only one letter, either uppercase or lowercase, and will display a corresponding number based on the international mapping number/letter list. For example, the letter "a" corresponds to 2. 
