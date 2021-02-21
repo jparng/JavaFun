@@ -17,3 +17,6 @@ Phone keypad:
 
 Max value count:
   This program will ask the user to input integers in a sequence until the value "0" is input, it will then calculate the max value integer and the number of times it occurred in the sequence.
+
+Guess the number:
+  This is a fun game that uses a loop and the Math.random method to guess the random number between 0 and 100. The program will randomly choose a number and when the user guesses, the program will display results whether the guess is too high, too low, or the correct number.
