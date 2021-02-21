@@ -13,3 +13,7 @@ Calculating Future Investment Value:
   
 Phone keypad:
   This program will ask the user to input only one letter, either uppercase or lowercase, and will display a corresponding number based on the international mapping number/letter list. For example, the letter "a" corresponds to 2. 
+
+
+Max value count:
+  This program will ask the user to input integers in a sequence until the value "0" is input, it will then calculate the max value integer and the number of times it occurred in the sequence.
