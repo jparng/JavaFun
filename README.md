@@ -20,3 +20,6 @@ Max value count:
 
 Guess the number:
   This is a fun game that uses a loop and the Math.random method to guess the random number between 0 and 100. The program will randomly choose a number and when the user guesses, the program will display results whether the guess is too high, too low, or the correct number.
+
+Validate Credit card:
+  This program uses Hans Luhn's algorithm to check if the credit card number is valid and will either display a result of "Valid" or "Invalid" when inputing a long integer value.
