@@ -1,7 +1,7 @@
 # JavaFun
 A series of Java code for fun/learning and for assignments from CSC 501.
 
-Calculating Future Investment Value:
+**Calculating Future Investment Value:**
 
   The program will prompt the user for a an investment value, an annual interest rate, and the amount of years that the investment would be saved. The result of the future investment value is displayed using the formula : futureInvestmentValue = investment + ( 1 + monthlyInterestRate) ^ numberOfYears * 12.
   
@@ -18,8 +18,10 @@ Calculating Future Investment Value:
 **Max value count:**
   This program will ask the user to input integers in a sequence until the value "0" is input, it will then calculate the max value integer and the number of times it occurred in the sequence.
 
+
 **Guess the number:**
   This is a fun game that uses a loop and the Math.random method to guess the random number between 0 and 100. The program will randomly choose a number and when the user guesses, the program will display results whether the guess is too high, too low, or the correct number.
+
 
 **Validate Credit card:**
   This program uses Hans Luhn's algorithm to check if the credit card number is valid and will either display a result of "Valid" or "Invalid" when inputing a long integer value.
