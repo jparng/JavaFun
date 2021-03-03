@@ -4,7 +4,10 @@ A series of Java code for fun/learning and for assignments from CSC 501.
 **Calculating Future Investment Value:**
 
   The program will prompt the user for a an investment value, an annual interest rate, and the amount of years that the investment would be saved. The result of the future investment value is displayed using the formula : futureInvestmentValue = investment + ( 1 + monthlyInterestRate) ^ numberOfYears * 12.
-  
+
+**Addition Quiz**
+  This program will ask the use to answer the addition problem, and if the user inputs the correct number, the message will display that the answer is true, otherwise it will display that the answer is false.
+
   
  **Computing Tax:**
   
