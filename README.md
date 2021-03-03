@@ -1,5 +1,5 @@
 # JavaFun
-A series of Java code for fun and for assignments from CSC 501.
+A series of Java code for fun/learning and for assignments from CSC 501.
 
 Calculating Future Investment Value:
 
