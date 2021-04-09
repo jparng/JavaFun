@@ -31,3 +31,6 @@ A series of Java code for fun/learning and for assignments from CSC 501.
 
 **Lockers Puzzle:**
   This program creates a string array with 101 elements to act as lockers in a school. These lockers are closed(false) initially, and the students will open the lockers, making them opened(true). The 1st student will open every locker, the 2nd student will open every other locker, the 3rd every third, and so on until the 100th student. If a locker was already opened, it would be closed, and vice versa. In the end, the program would display which lockers are opened and which lockers are closed. In this case, the lockers opened should be the numbers that are perfect squares.
+  
+  **Circle2D**
+  This program has a class named "Circle2D" that tests a new circle with x,y, and radius values. The program can check if a different (x,y) coordinate is within the circle, if there is another circle within the created circle, and if the circles overlap.
