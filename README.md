@@ -34,3 +34,6 @@ A series of Java code for fun/learning and for assignments from CSC 501.
   
   **Circle2D**
   This program has a class named "Circle2D" that tests a new circle with x,y, and radius values. The program can check if a different (x,y) coordinate is within the circle, if there is another circle within the created circle, and if the circles overlap.
+  
+  **Triangle and Geometric Object**
+  This program takes the same ideas from Circle2D, but uses Geometric Object superclass for the Triangle as a subclass.
